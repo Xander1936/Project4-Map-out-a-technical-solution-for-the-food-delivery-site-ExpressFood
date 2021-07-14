@@ -1,0 +1,5 @@
+id,first_name,last_name,bike_number,phone,status
+1,Jason,Williams,1,687282662,delivered
+2,John,Doe,2,693837826,undelivered
+3,Phill,Banks,3,672272899,"in process"
+4,Alfonso,Davies,4,659376332,delivered

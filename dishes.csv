@@ -1,0 +1,13 @@
+id,name,description,type,price,stock,date
+1,pizza,dish,main,5,100,2020-08-11
+2,fry_chicken,dish,main,20,300,2020-08-11
+3,hamburger,dish,main,5,200,2020-08-11
+4,french_salad,dish,dessert,15,75,2020-08-11
+5,juices,juice,drinks,6,300,2020-08-11
+6,whine,alcoohol,drinks,20,50,2020-08-11
+7,whisky,alcoohol,drinks,30,50,2020-08-11
+8,fruits,fruits,dessert,2,300,2020-08-11
+9,beef,dish,main,30,100,2020-08-11
+10,bred,dish,extra,2,100,2020-08-11
+11,cheese,dish,extra,5,25,2020-08-11
+12,fry_fish,dish,main,20,100,2020-08-11
